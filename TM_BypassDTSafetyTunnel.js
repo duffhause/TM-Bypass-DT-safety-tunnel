@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Remove donutteam saftey tunnel
 // @author       The StonerTeam
-// @include        http*://tunnel.donutteam.com*
+// @include      http*://tunnel.donutteam.com*
 // @icon         https://stoner.team/favicon.png
 // @grant        none
 // ==/UserScript==
